@@ -413,3 +413,233 @@ hash = "5507d3986bd2657806d081c6324b6812b1bba2ce3849fb9d8baeef43776ec1ce"
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "3539458c4d0675ebe14026431ccd8e8344e344bfcef492f1e61b717081a490e0"
 metafile = true
+
+[[files]]
+file = "mods/anvians-lib.pw.toml"
+hash = "326f9e62356a90313952a04ba7bb20f93f2974a09e0d9d5f873349be195c0196"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "2ec945ad867c230ff2cb299d2e9d566dcb2ee59107a4491e2f37951103dd3e62"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "65cccb8b510a2b1fd63371efa833cd30d34311a073cb25171baf66ddddd7df72"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "d3a5ff7f05676e6707ffe5737bff9166f87c6c8929443ca10a3c4ded84d11c77"
+metafile = true
+
+[[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "0a074170ea02fa5d35e6bfa37c6150a096ec9232164c6c6e206e58344778aef3"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "32b27350c1c8a5af8e6edb722bac84235d2ef155400f95aad4bf558a17d7b25a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
+metafile = true
+
+[[files]]
+file = "mods/craft-config.pw.toml"
+hash = "8385aa689854bb5a11fe1c4f5a456db097aeeaa9342f12ba194f6d03ecc62d00"
+metafile = true
+
+[[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+hash = "437a6eb873d7c331b14901adbbc122953a1fbd521b88e34a2d125dcd505a7e92"
+metafile = true
+
+[[files]]
+file = "mods/fastserverpings.pw.toml"
+hash = "1957cd3fa9c60b4f696ed6f24b514b647ff649ac3f3440869b3e4f7ea0f23b53"
+metafile = true
+
+[[files]]
+file = "mods/flashback-extras.pw.toml"
+hash = "3b2ebeda531476d31c58c746ebe348433611db89a705c8f298ef443590258083"
+metafile = true
+
+[[files]]
+file = "mods/flashbackturbo.pw.toml"
+hash = "bf7e46a35fc536ac8c4c6af1059742b6e72104e47c92d76e1a98f47e183bcf7e"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "c58c2833133c443be550bcdec3a2438b2dadeae2ebc2c6799e820cce86ce4b95"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "acc02190aa0489a379b1db70f150ec5acd7da5c5c6ec27ebb0960c06f6b20b02"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
+metafile = true
+
+[[files]]
+file = "mods/jasione.pw.toml"
+hash = "25bf547ed61fd5d07a8f430a00b763d8a662bbcc70584e42691741aa456f2ea9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "f3dc41ca843190a87a7b9436bd2ef09072fd4e9c58cee6100185c49032279570"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "739e0cee4fd1748f65a4aaf3e52f3e0ab16bc97c1e3aee1002ff6483bf62dc37"
+metafile = true
+
+[[files]]
+file = "mods/optimized-fullbright.pw.toml"
+hash = "c8d6f88dbe191e964fde6a4710d9795d5eb916138c0802e077fc1dbfb1caf458"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "ff6f634392e5fefbad2b57257e99472c4d8e07ca348f50f0d01ad729b48e8e45"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "9acfab294b8524a490edeb75988197581413e6a8fd02fefce4c69a5f5b17734d"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "f099f10bf7926d341f30c46328f3735822c8990431400440e5ff3618ee9d4f4f"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d42bccd20e3c2ad79d9b627921b141f7155a3ea972a05e9a139d95cb7957c2d"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "07e3c8dc0d6b3717b01c91597e6d1a597333a1883731891df3c535164f96f5da"
+metafile = true
+
+[[files]]
+file = "mods/smart-particles.pw.toml"
+hash = "894647c28bbafeac00c0fcb83fe90c408b2e32164778f7508d20fbe1cea521d7"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra-information.pw.toml"
+hash = "6ad5068d2ab2a8286a31fdfb257e635f65605ac6fa2f37709840ba3f269207ba"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "7efac3a63be507bb2d2fdf2e3a57b238487aacd0057831fadaf4b635994361df"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "85896553746fd187b44fb72199080f05a6b7b584ccf2c6d88d0a6597fb53c5c6"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d9d97625ca8e65c474f373012b72c02dc6b8bce909d5acc91561bc4e3d0cb705"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "92424a2a580bec54f11a82184b8ce75a20ca51e718474594c30f505b679e5344"
+metafile = true
+
+[[files]]
+file = "mods/zfastsurface.pw.toml"
+hash = "fdfe3c453b820f7f3f6b1933105ca61a5b33dfbdc52b5dc042827436ae361633"
+metafile = true
+
+[[files]]
+file = "mods/zmaterial-rule-compiler.pw.toml"
+hash = "fc68936d69eabb0ff2df33279000517b787a5c93bde2ec634ce2715f053747aa"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+ hash = "28385b8d2a6773fdad0ee4096581540831e84e11b379dd6589603972be040daa"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+ hash = "2a1330e07c0aab41380afdba43bb32a4a39fb7bb871c737964cf91d465b83e8e"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+ hash = "359815997d5b1569ff37a7d7605abb4cc4e09b1dc2294b3fe7c42ecce17a7f69"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-multiplayer-plus.pw.toml"
+ hash = "dba4331305d7a54c3e2063ab1d4bfb938f3b6eacd6cafb5068d19a4a15b9e85a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+ hash = "50237b503f126ada2970c1005f890f1456904166d58d2e134fb029c8ebe12341"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+ hash = "4a7343dd7bb0703a163c32093605e6aeea4739de2173df22f7dc3a0e83fc88a1"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+ hash = "795265129bc1710fd91b2dc2e66e3e5526e8c6dcf5bc5b52f94fd526bf90651b"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+ hash = "f5bf6b3a3c3245c3192774011e3e6a3b4bed3dfef12ece0fe8011889ca2112b5"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+ hash = "0dbbc4e1924c1da0a5495541cc1bfe3b90fcf6f3c01eb73791c8c7e474a8be25"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+ hash = "c5974b081091586c5f81e1d1ed7b86d29b319df83b75cfaddbcb7bc09f85b00b"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+ hash = "d1a58d3258f181b8efb74a49a1ff19e3db774cd58a9bbb8127a3554a67250fa8"
+metafile = true

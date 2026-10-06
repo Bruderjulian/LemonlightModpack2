@@ -47,8 +47,7 @@ FULL_NAME = "Lemonlight Full"
 # Mod file stems (without ".pw.toml") that are only part of Lemonlight Full.
 # Normal = performance/base mods. Full = normal + these extras.
 FULL_ONLY_STEMS = {
-    # Shader support
-    "iris",
+    # Shader support (Iris moved to base for 26.3+; stem kept for older versions)
     "irisshaders",
     # Controller support
     "controlify",

@@ -5,7 +5,7 @@ For the player-facing overview and the edition/version policy, see [README](READ
 
 ## What lives where
 
-- `Packwiz/<mc-version>/` - Lemonlight (normal): `pack.toml`, `index.toml`, `mods/*.pw.toml`, `config/`, `resourcepacks/`. One folder per supported Minecraft version (1.19.x and newer only).
+- `Packwiz/<mc-version>/` - Lemonlight (normal): `pack.toml`, `index.toml`, `mods/*.pw.toml`, `config/`, `resourcepacks/`. One folder per supported Minecraft version (1.21.8 and newer only).
 - `Packwiz-Full/<mc-version>/` - Lemonlight Full: same layout, normal plus the Full-only extras.
 - `CurseForge/manifest.json`, `Modrinth/modrinth.index.json` - Full-edition publish files (complete mod set).
 - `MultiMC-Packwiz/` - Prism/MultiMC auto-update instances (normal + Full). Their `instance.cfg` files point at the raw `pack.toml` URLs - update `YOUR-ORG/lemonlight` to the real repo location.
@@ -26,4 +26,5 @@ Notes:
 
 - As seen in `.gitignore`, no JAR files are committed. Get them via packwiz, Prism Launcher, CurseForge or Modrinth.
 - `pack.toml` holds a sha256 of `index.toml` - the build script refreshes it automatically; if you edit `index.toml` by hand, recompute it.
-- Keep the 1.19+ only policy: do not re-add version folders older than 1.19.x.
+- Keep the 1.21.8+ only policy: do not re-add version folders older than 1.21.8.
+- The 26.3 mod set was extended with the Simply Optimized mods: `optimization`/`library` mods went to both editions, the rest Full-only. When adding future mods, follow the same rule so `Build full variant.py` keeps working.

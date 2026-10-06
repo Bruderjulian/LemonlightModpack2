@@ -17,20 +17,24 @@ Forked from [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks
 
 Full adds, on top of normal:
 
-- Shader support (Iris Shaders)
+- Shader support (Iris Shaders) - now in both editions
 - Controller support (Controlify)
 - Open-to-internet play (e4mc)
-- Cape mods (Capes / Cape Provider)
-- High-res screenshots (Fabrishot / Renice Shot)
+- Cape mods (Capes / Cape Provider / Better Capes)
+- High-res screenshots and replay recording (Fabrishot / Renice Shot, Flashback)
 - Better Mount HUD
+- Minimaps, AppleSkin, Mouse Tweaks and other HUD/utilities now in both editions (see below)
+- Remaining Full-only extras from the Simply Optimized set (26.3): Litematica suite, Jade, Better Advancements/Stats, Not Enough Crashes, inventory/tooltip helpers, cosmetics and TCDCommons
+
+The performance mods from that set (Sodium-family helpers, C2ME, Krypton, VMP, AsyncParticles, BadOptimizations, ScalableLux, `z*` worldgen libs and other `optimization`-tagged mods) are in **both** editions. Server-only ones (ServerCore, structure/worldgen optimizers) install server-side only.
 
 ## Supported versions
 
-Only **Minecraft 1.19.x and newer** are supported. Older versions (1.16.5–1.18.2) have been removed from this fork, including their changelog history ([CHANGELOG](CHANGELOG.md)) and mod table columns ([INCLUDED-MODS](INCLUDED-MODS.md)).
+Only **Minecraft 1.21.8 and newer** are supported (`Packwiz/` folders below 1.21.8 have been removed), including their changelog history ([CHANGELOG](CHANGELOG.md)) and mod table columns ([INCLUDED-MODS](INCLUDED-MODS.md)).
 
 ## Download
 
-- **Prism Launcher / MultiMC (auto-update):** use the instances in `MultiMC-Packwiz/` (`Lemonlight (auto-update)` or `Lemonlight Full (auto-update)`).
+- **Prism Launcher / MultiMC (auto-update):** use the instances in `MultiMC-Packwiz/` (`Lemonlight (auto-update)` or `Lemonlight Full (auto-update)`). They track the 26.3 pack.
 - **Modrinth / CurseForge:** use the files in `Modrinth/` and `CurseForge/` (Full edition).
 
 ## Credits
@@ -45,8 +49,8 @@ Only **Minecraft 1.19.x and newer** are supported. Older versions (1.16.5–1.18
 
 - `Packwiz/<version>/` - Lemonlight (normal) sources: `pack.toml`, `index.toml`, `mods/*.pw.toml`, `config/`, `resourcepacks/`.
 - `Packwiz-Full/<version>/` - Lemonlight Full sources, same layout, generated from normal plus extras (see below).
-- `CurseForge/` (`manifest.json`) and `Modrinth/` (`modrinth.index.json`) - Full-edition publish files.
-- `MultiMC-Packwiz/` - auto-update launcher instances (normal + Full).
+- `CurseForge/` (`manifest.json`) and `Modrinth/` (`modrinth.index.json`) - Full-edition publish files (complete mod set).
+- `MultiMC-Packwiz/` - auto-update launcher instances (normal + Full, tracking 26.3).
 - `MultiMC/` - static launcher instance template (deprecated upstream, kept for reference).
 - `CLI tools/` - maintainer scripts.
 - `Resource Packs/` - bundled resource pack sources.
@@ -63,6 +67,7 @@ The Full-only mods ("extras") are defined in `FULL_ONLY_STEMS` in [`CLI tools/Bu
 - `capes`, `cape-provider` - capes
 - `fabrishot`, `renice-shot` - hi-res screenshots
 - `better-mount-hud`, `bettermounthud` - mount HUD
+- everything else that is only in `Packwiz-Full/` (minimaps, Litematica, Jade, Flashback, cosmetics, utilities - merged from the Simply Optimized set for 26.3)
 
 `Packwiz/` (normal) excludes them; `Packwiz-Full/` includes everything.
 
@@ -76,6 +81,9 @@ python "CLI tools/Build full variant.py" --version 26.3
 ```
 
 The script preserves Full-only mods, rebuilds `index.toml` and refreshes the `pack.toml` index hash. See [`CLI tools/README.md`](CLI%20tools/README.md) and [`DEVELOPER-README.md`](DEVELOPER-README.md) for the full maintainer flow.
+
+- Keep the 1.21.8+ only policy: do not re-add version folders older than 1.21.8.
+- When adding mods by hand, mirror the Simply Optimized merge: `optimization`/`library` mods go to both editions, everything else Full-only.
 
 ### First-release TODOs
 
