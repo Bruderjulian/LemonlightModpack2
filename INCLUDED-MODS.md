@@ -9,7 +9,7 @@ The selected mods are inherited from [Fabulously Optimized](https://www.cursefor
 Lemonlight comes in two editions (see [README](README.md) for details):
 
 - **Lemonlight** (normal) - performance and graphics base: everything in the tables below _except_ the Full-only extras, plus the Simply Optimized performance mods (AsyncParticles, BadOptimizations, C2ME, Krypton, VMP, Lithium-family helpers and small libraries).
-- **Lemonlight Full** - normal plus extras: shader support (Iris), controller support (Controlify), LAN sharing (e4mc), cape mods, hi-res screenshots (Fabrishot/Renice Shot), the Better Mount HUD - and all remaining mods from the Simply Optimized set (minimaps, Litematica, Jade, Flashback, cosmetics and utilities).
+- **Lemonlight Full** - normal plus extras: controller support (Controlify), LAN sharing (e4mc), cape mods, hi-res screenshots (Fabrishot/Renice Shot), the Better Mount HUD - and the remaining non-performance Simply Optimized mods (Litematica suite, Jade, Flashback, cosmetics and utilities).
 
 Note: the tables below cover the inherited base-pack mods. The ~64 extra Simply Optimized mods (26.3) are not listed here - see `Packwiz-Full/26.3/mods` for the authoritative list.
 

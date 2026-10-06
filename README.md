@@ -15,18 +15,16 @@ Forked from [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks
 | **Lemonlight** (normal) | `Packwiz/<minecraft-version>/` | Performance and graphics base pack |
 | **Lemonlight Full** | `Packwiz-Full/<minecraft-version>/` (also `CurseForge/`, `Modrinth/`) | Normal plus extras |
 
-Full adds, on top of normal:
+Full adds, on top of normal (26.3):
 
-- Shader support (Iris Shaders) - now in both editions
 - Controller support (Controlify)
 - Open-to-internet play (e4mc)
 - Cape mods (Capes / Cape Provider / Better Capes)
 - High-res screenshots and replay recording (Fabrishot / Renice Shot, Flashback)
 - Better Mount HUD
-- Minimaps, AppleSkin, Mouse Tweaks and other HUD/utilities now in both editions (see below)
-- Remaining Full-only extras from the Simply Optimized set (26.3): Litematica suite, Jade, Better Advancements/Stats, Not Enough Crashes, inventory/tooltip helpers, cosmetics and TCDCommons
+- Litematica suite, Jade, Better Advancements/Stats, Not Enough Crashes, inventory/tooltip helpers, cosmetics and TCDCommons
 
-The performance mods from that set (Sodium-family helpers, C2ME, Krypton, VMP, AsyncParticles, BadOptimizations, ScalableLux, `z*` worldgen libs and other `optimization`-tagged mods) are in **both** editions. Server-only ones (ServerCore, structure/worldgen optimizers) install server-side only.
+In both editions: all performance mods (Sodium-family helpers, C2ME, Krypton, VMP, AsyncParticles, BadOptimizations, ScalableLux, `z*` worldgen libs and other `optimization`-tagged mods) as well as Iris Shaders, Xaero's minimaps, AppleSkin, BetterF3, Mouse Tweaks, Auth Me, Skin Shuffle and Not Enough Animations. Server-only ones (ServerCore, structure/worldgen optimizers) install server-side only.
 
 ## Supported versions
 
@@ -61,7 +59,7 @@ Only **Minecraft 1.21.8 and newer** are supported (`Packwiz/` folders below 1.21
 
 The Full-only mods ("extras") are defined in `FULL_ONLY_STEMS` in [`CLI tools/Build full variant.py`](CLI%20tools/Build%20full%20variant.py):
 
-- `iris`, `irisshaders` - shaders
+- `irisshaders` - shaders (legacy stem; Iris itself is in both editions since 26.3)
 - `controlify`, `midnightcontrols` - controllers
 - `e4mc`, `e4mc_minecraft` - open-to-internet
 - `capes`, `cape-provider` - capes
