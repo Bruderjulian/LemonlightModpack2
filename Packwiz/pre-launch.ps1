@@ -5,7 +5,7 @@ $mods = @(
     'AnotherMod.jar'
 )
 
-# Upgrading Fabulously Optimized
+# Upgrading Lemonlight
 Write-Output "Checking for FO updates..."
 Set-Location ..
 

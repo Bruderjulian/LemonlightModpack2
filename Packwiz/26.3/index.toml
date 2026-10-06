@@ -216,16 +216,6 @@ hash = "e583319a98a1f6d7334b293a4e1cb59916be6defbfc8a7badc22e3dc20370327"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "ed28f4bafa48e5de7dae1388e1c630e7c1b31da620e8e5e68c036c79743078a1"
-metafile = true
-
-[[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "a4add7face918af2c747c099439e64650c933bb71c03c50ff178b72d7f970f93"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "8e82609afafd924b86b4791bf4f908175e19de75e1a5818cf978a581162dba91"
 metafile = true
@@ -241,11 +231,6 @@ hash = "28d56c0625696a88baa7b7a1b86d1d6965e078ba1f7f7c2fd523aa69a98ed08b"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "d9cba6cac8489cdc81e42cec6e663cca1ee86e5314ff13feb90bacaaf386f31d"
-metafile = true
-
-[[files]]
 file = "mods/crash_assistant.pw.toml"
 hash = "2e1873f2d504a943a7b632f206ea16fadde3056d5a5c2a6028daaa75feeb16af"
 metafile = true
@@ -258,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "7a8cf1f0ef1f10eacf815019bda4367cff8a428245cb7e6ee9afd6f2a568d226"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "1c951649b5941d8e9742f1a8305bc8a1be4334237de1f9e38526a1c2e56f5f57"
 metafile = true
 
 [[files]]
@@ -308,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "92608b2034c338cb8db926ac56dc783a450dcfdecc96b7de3f1a950b54aeebea"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "50237b503f126ada2970c1005f890f1456904166d58d2e134fb029c8ebe12341"
 metafile = true
 
 [[files]]
@@ -388,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "66b148b6999f46ab1f1a47d0818808b2d192b91809748b378a882e9c6160d221"
-metafile = true
-
-[[files]]
-file = "mods/renice-shot.pw.toml"
-hash = "77d96cc05ce970e06cb3ce6666187e8de34f749b65d4c6a52b76b6d808bf9e35"
 metafile = true
 
 [[files]]

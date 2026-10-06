@@ -212,16 +212,6 @@ hash = "2254eb7828cb51f07b6d25ab151d1664220df808b397114394c10492087d7ebf"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "7fe14d9f70a504a90c8defbe883b2121f8b4bea23f15981692a24f3c203f263f"
-metafile = true
-
-[[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "280a860cd707a31d6d19436d73b9f62c58f2bd755fa4ed1a3e0b4d0fa12721da"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "6261f3a49013dcea117191410cb9f43ec0c05bec19cbda24b8abc59985c82309"
 metafile = true
@@ -234,11 +224,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ee47e5b894a043f87ffe02dceacbccd90b09aa0574557fc761fe5e0ca0144a4d"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "59cef7e8ae15f4f0f3ac2046b05b33180db8e8a61cc72fd7d1b082f6cf7c594a"
 metafile = true
 
 [[files]]
@@ -259,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "7994d72736ee57abd37892a22505fb701bd7e354f78c7fa57f3e1ab84ce4786e"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "89e01e31bfb003be8675d0682011cb1735d20325e7974e98e35950336f5036f2"
 metafile = true
 
 [[files]]
@@ -292,11 +272,6 @@ hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "ffa5b2f32971e29891d888814226265e056618a35622cda37f8f07def7d86e14"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "d5940d1ba64243a39c26ae46a37f19b5c17bce59a69c7e27d8e37877b23c5c10"
 metafile = true
@@ -314,11 +289,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4b5b6793f9b10106d631a56fa3cb3f947e76c64257dad0afa5630af4d0a0d4e9"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "3d5d6377a3c32456c2449fd5951d027e935730f8ea4a7d404590795ba318076b"
 metafile = true
 
 [[files]]

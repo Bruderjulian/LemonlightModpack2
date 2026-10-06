@@ -130,11 +130,6 @@ hash = "65df17c363eed6e37080d134f548a22aa0b14a9fecf94d5045d5b451bdeb88f4"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f1fd6d2d2900f38af4a64f42ce102b1f59f2abc13144487d6604a5d55305830d"
 metafile = true
@@ -157,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "3fabf6957b398ab34be705c8d76c61b4dcb93ee1ba308a2cb99c1d16766b2a22"
-metafile = true
-
-[[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "83508b385b24abc42539a53f6a4412d4b46aaedcf0fd0f188358392919e80127"
 metafile = true
 
 [[files]]
@@ -195,11 +185,6 @@ hash = "cbc5f3e10f5dd93fc685e1ac412e2497f4867e97562c442185863be24b329dd2"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "2ab6ab95f7ef07902a8695fec0427a03c2f4d64ff69b2126b10b006b451bf848"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "e8b66c22330476a858b9556bf999497284a252794496bb49648705928baddf02"
 metafile = true
@@ -212,11 +197,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "fc34f10a6ed5a5e2eef2d290b651622939feaf00b5e3d67d3085c1f547181dff"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "208a440bc255a39ecd7511f8e988a0654edabb57b6a6ee6edc08dc97a1a1a14c"
 metafile = true
 
 [[files]]

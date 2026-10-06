@@ -1,6 +1,6 @@
 {
     "fo.resourcePack.modmenuhelper": "§7Elenca funzionalità e opzioni delle mod in Mod Menu§r",
-    "modmenu.dropInfo.line1": "§9🛠§r/§8🛠§r - mod in Fabulously Optimized, elenco delle opzioni disponibili",
+    "modmenu.dropInfo.line1": "§9🛠§r/§8🛠§r - mod in Lemonlight, elenco delle opzioni disponibili",
     "modmenu.dropInfo.line2": "§3§l📥§r - ha effetto solo con alcuni pacchetti di risorse",
     "modmenu.summaryTranslation.animatica": "Animazioni personalizzate della OptiFine\n§3§l📥§r§8🛠 (solo opzioni avanzate)",
     "modmenu.summaryTranslation.betterblockentities": "Casse, letti, cartelli, etc. ottimizzati\n§9🛠§8 In Opzioni Grafiche: blocchi compatibili, animazioni, ...",
@@ -55,5 +55,5 @@
     "menu.multiplayerOptions.lan": "LAN e Internet",
     "menu.multiplayerOptions.network.lan.tooltip": "I giocatori connessi alla stessa rete possono unirsi via LAN; i giocatori di qualsiasi parte del mondo possono unirsi tramite un indirizzo condiviso da te.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "Ti diamo il benvenuto su §7Fabulously Optimized§r! Ecco alcuni suggerimenti:\n\n§f🪟§r Texture connesse e luci dinamiche - configura su §7Mod§r\n§a🏞§r Erba migliorata e schermo intero con Alt+Tab - attiva in §7Impostazioni grafiche§r\n§e✨§r Shader e pacchetti di risorse - basta §7scaricarli e attivarli§r\n§5🎮§r Utilizza un controller - è sufficiente §7connetterlo e usarlo§r\n§3🛜§r Gioca con amici, ovunque - premi §7Apri a Internet§r in giocatore singolo\n§8📸§r Fai screenshot in 4K - premi §7F9§r\n§6🏴§r Mantelli personalizzati, gratis - §7https://download.fo/cape§r\n§b🌐§r Aiuta a tradurre il modpack - §7https://download.fo/translate§r\n§2➕§r Aggiungi altre mod - §7https://download.fo/add§r\n§4❓§r Problemi o domande? - §7https://download.fo/wiki§r\n\n(§7Ingrandisci la finestra§r o visita §7https://download.fo/tutorial§r)"
+    "accessibility.onboarding.screen.title": "Ti diamo il benvenuto su §7Lemonlight§r! Ecco alcuni suggerimenti:\n\n§f🪟§r Texture connesse e luci dinamiche - configura su §7Mod§r\n§a🏞§r Erba migliorata e schermo intero con Alt+Tab - attiva in §7Impostazioni grafiche§r\n§e✨§r Shader e pacchetti di risorse - basta §7scaricarli e attivarli§r\n§5🎮§r Utilizza un controller - è sufficiente §7connetterlo e usarlo§r\n§3🛜§r Gioca con amici, ovunque - premi §7Apri a Internet§r in giocatore singolo\n§8📸§r Fai screenshot in 4K - premi §7F9§r\n§6🏴§r Mantelli personalizzati, gratis - §7https://download.fo/cape§r\n§b🌐§r Aiuta a tradurre il modpack - §7https://download.fo/translate§r\n§2➕§r Aggiungi altre mod - §7https://download.fo/add§r\n§4❓§r Problemi o domande? - §7https://download.fo/wiki§r\n\n(§7Ingrandisci la finestra§r o visita §7https://download.fo/tutorial§r)"
 }

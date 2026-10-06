@@ -1,5 +1,5 @@
 name: Mod removal
-description: Suggest a mod to be removed from Fabulously Optimized
+description: Suggest a mod to be removed from Lemonlight
 labels: mod, remove
 body:
 - type: markdown
@@ -41,7 +41,7 @@ body:
 - type: input
   attributes:
     label: Discord discussion link
-    description: Was this also discussed on the Fabulously Optimized Discord (optional)? If so, copy the link here.
+    description: Was this also discussed on the Lemonlight Discord (optional)? If so, copy the link here.
     placeholder: https://discord.com/channels/859124104644788234/...
   validations:
     required: false

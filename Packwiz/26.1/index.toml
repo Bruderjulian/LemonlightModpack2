@@ -197,18 +197,8 @@ file = "config/modpack_defaults/options.txt"
 hash = "bd5804176601e20532bf8a8cffbfcb28cf2dafd894b8b8ff1e3f3fc15b990920"
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "e66d3c2caf5e71a1601160edcdfbb6cd4e7c90aceba07f18cd5d142fefd018f0"
-metafile = true
-
-[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "cd1715c987b4342556f7bd839107f836555c5ae6bc4f8edb35521f40965ca324"
-metafile = true
-
-[[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "1991258c9af3bd33adea30cf1925d5820f2dc23fae29ac5eaa86fb8b6cd6f9b2"
 metafile = true
 
 [[files]]
@@ -269,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "13f4d06e2531910485771e270024c2d11df54e9f5ac722c72aeaee1cae0e1278"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "c220fd16ef3c55343b696bbe839e077a8627fe1d585d34748a7de18a632f1ef1"
 metafile = true
 
 [[files]]

@@ -112,18 +112,8 @@ hash = "a848857985e7dfd249d3a7eb32a62e04b60edfb3d57a11fa8a49703065ef3e0a"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "a26a337fce738a7bcb616ad11865b27076b615449516d982353f71d4e94297f7"
-metafile = true
-
-[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "de041e2c7a3a94cebdef9e22bebb7b81c1340762423209bb9a3fbc4934a9da1d"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "f62ab14463848d0a33d88642c13ac7bc1986af008ff7321b3ae255967de9ef1f"
 metafile = true
 
 [[files]]
@@ -197,11 +187,6 @@ hash = "97e742dea733cd23b5da05241b8dd4c01d881a5058f775cdaf69a150b8bbaefa"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "3bf54134dbf492b27b52b95cc994bfe0e3ec089a884ea1fdad0ee4cc33cf28e3"
-metafile = true
-
-[[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "405ebb1af4106b57116d678e467884c8771aad967e4029cd797f895c0e3cf1f1"
 metafile = true
@@ -219,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "eb586c82b82374cbae08d6cbb80a947834020159b4d06256cce2095a832b5636"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "c2d477c60df0b20d4946967341137f988145d60e78789a5df0b1e9ed128b6b24"
 metafile = true
 
 [[files]]
@@ -264,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "295fc4a373635cba66d10cc200075c22b785fae9d4b6be513725abbeb93c2e62"
-metafile = true
-
-[[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "4889bba6ce49d2c4c5c7bb0e61cdb6e554311a33d185dfce292d8c4308d295ea"
 metafile = true
 
 [[files]]

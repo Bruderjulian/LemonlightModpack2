@@ -107,23 +107,8 @@ hash = "fad608cbcee132e75f28e6633275800760c0b07fed91553f20aa43772e924890"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "24b0177dacb547321d83487699e13bf6f6fa004c0d8199dbcc0867b2c21097ee"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "d7384472a7c1c58b70d0b27e3681f79082e87150402c8bab4eda8e77a8209a7a"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "af8af751d3a8d56988239ccb9c9600c651c163eda57f02265c82239cf819626f"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "7f67091631862456efee99d3472282f24c94e40cfbcbda6051a52e4b121735d9"
 metafile = true
 
 [[files]]
@@ -159,11 +144,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5e048f906db6ca04db716dae4c638bfbc6a3b22e4b773af7e5b900442ba2d42a"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "f0b7cff47d0a2b0f68feb838ec36bb6681e2484558c125ae292f50e721cde8dd"
 metafile = true
 
 [[files]]

@@ -1,4 +1,4 @@
-name = "Fabulously Optimized"
+name = "Lemonlight"
 author = "robotkoer"
 version = "5.6.6"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "217c02dd83280d82c79e34df5722f96fa65885842af6ae0f468c93a7c0c65ef7"
+hash = "24826dffe2729b05d0521b81f90a2fae858f092777877a49be8abf251f8adb7b"
 
 [versions]
 fabric = "0.15.7"

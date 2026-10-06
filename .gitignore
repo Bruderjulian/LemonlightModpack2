@@ -1,8 +1,12 @@
 *.jar
 *.exe
 Packwiz/packwiz
+Packwiz-Full/packwiz
 Packwiz/*/resourcepacks/Fast Better Grass.zip
 Packwiz/*/resourcepacks/Chat Reporting Helper.zip
 Packwiz/*/resourcepacks/SodiumTranslations.zip
+Packwiz-Full/*/resourcepacks/Fast Better Grass.zip
+Packwiz-Full/*/resourcepacks/Chat Reporting Helper.zip
+Packwiz-Full/*/resourcepacks/SodiumTranslations.zip
 .DS_Store
 .vscode

@@ -5,9 +5,9 @@ from pathlib import Path
 
 macos = sys.platform == "darwin"
 if macos:
-    cf_path = Path.home() / "curseforge/Instances/Fabulously Optimized"
+    cf_path = Path.home() / "curseforge/Instances/Lemonlight"
 else:
-    cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
+    cf_path = Path.home() / "curseforge/minecraft/Instances/Lemonlight/"
 
 config_root = cf_path / "config/"
 title_screen_name = "isxander-main-menu-credits.json"
@@ -42,13 +42,13 @@ title_screen_obj = load_json(title_screen_path)
 existing_version = title_screen_obj["main_menu"]["bottom_right"][0]["text"]
 
 print(f"Current version: {existing_version}")
-new_version = input("Enter new version: Fabulously Optimized ")
+new_version = input("Enter new version: Lemonlight ")
 
-title_screen_obj["main_menu"]["bottom_right"][0]["text"] = f"Fabulously Optimized {new_version}"
+title_screen_obj["main_menu"]["bottom_right"][0]["text"] = f"Lemonlight {new_version}"
 save_file(title_screen_path, title_screen_obj)
 
 overrides_file_obj = load_json(overrides_path)
-overrides_file_obj["overrides"]["minecraft"]["+recommends"]["Fabulously Optimized"] = f">{new_version}"
+overrides_file_obj["overrides"]["minecraft"]["+recommends"]["Lemonlight"] = f">{new_version}"
 save_file(overrides_path, overrides_file_obj)
 
 content = blame_script_path_from.read_text(encoding="utf-8")

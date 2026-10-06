@@ -250,18 +250,8 @@ hash = "bc7e3d0ffb588eaad3ba9a67b0400e2a44d89fcb567944b364bb8b7c648d2879"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "e66d3c2caf5e71a1601160edcdfbb6cd4e7c90aceba07f18cd5d142fefd018f0"
-metafile = true
-
-[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "9efe62ed38ffbe97e6d8cfe8ef81845c668fa0f372f3e62190ca4e9bc469adc6"
-metafile = true
-
-[[files]]
-file = "mods/cape-provider.pw.toml"
-hash = "1991258c9af3bd33adea30cf1925d5820f2dc23fae29ac5eaa86fb8b6cd6f9b2"
 metafile = true
 
 [[files]]
@@ -327,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "029f86e2cd727e0db4500b7fa690746b4ee871e1c8c51e6436aa2e5e70bc5485"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "986fb40e3cc4505a310230c7c33f5452e18b28186678d17549bb573e3d94fe66"
 metafile = true
 
 [[files]]

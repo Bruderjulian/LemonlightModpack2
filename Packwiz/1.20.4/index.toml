@@ -118,16 +118,6 @@ hash = "64bd5d96962a888bad88a8e3817c28e41d2d6ec768bbe03b6804b8cf1c5141bb"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
-metafile = true
-
-[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "f411a3ef6eecafd74529585a608b33318307734c5ed7f10f78c8ed6b0a5b6cea"
 metafile = true
@@ -143,11 +133,6 @@ hash = "829b454adc6aa5c68393ed3e78537ec2881a1f1d1eec45c7a9e50d204518c0b1"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "ba6f77a067a7c7a434a8a73a9566ac3eecb7f3cb72717c63dcb062bd5d0d7ab9"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "14f3e6bd51adbb5d7edb3b18b81e1c422abbe139df0077368e0d8ac6fe47f18b"
 metafile = true
@@ -160,11 +145,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "47ef1f649fb9f80140203cc4bd570f5eabd5ddc75bcbcef2833a327ac45badaf"
-metafile = true
-
-[[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "f2942effcaac370a0f4390d423cfa51ad47cf98ceea84509f82c3dc56ec453cc"
 metafile = true
 
 [[files]]
@@ -203,11 +183,6 @@ hash = "fc2775479e9d7946db86d4eacec894b9e45fb93bbf62bb96401b6b45d29f11ae"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "9320866236b43f1a6610e0656a504ab5fc45df2b5bf0b42df5cbfbac2e9f221e"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "6ff05404cca11475e2e4b436b092a61cef75e36af38ee9931c009dcc8734e77a"
 metafile = true
@@ -230,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "020d1473716fefad5ed8769ce2e6d3e2c45aa0c2ce6f1d31b7f47454dd3fda1f"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "2bd94d1d142a96594c05096798ad98774d0e52012ceccfa78bafc7622a9ccb0c"
 metafile = true
 
 [[files]]

@@ -130,18 +130,8 @@ hash = "65df17c363eed6e37080d134f548a22aa0b14a9fecf94d5045d5b451bdeb88f4"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
-metafile = true
-
-[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "5a556c11e63e10346fc83a280dfeb6835c58baf7b15bf763b43e6d43e33a8e96"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
 metafile = true
 
 [[files]]
@@ -155,11 +145,6 @@ hash = "2481588ce600e2a77400f48b193a44db3d2dee7a3d571db332ea70c1cd57375a"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "238b3973e8f99ef2543ded6f1c7d4108fdbb7012ccf682f8a0da78763f1fdada"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "280a6d667098519b0316509ca6f4390ff65728c15a9c6676b1724249264402dd"
 metafile = true
@@ -167,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "cf288276dffdb3d163b7f1420756382b4ef8cbb1bfbda9f1e4e685f2616a8736"
-metafile = true
-
-[[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "83508b385b24abc42539a53f6a4412d4b46aaedcf0fd0f188358392919e80127"
 metafile = true
 
 [[files]]
@@ -205,11 +185,6 @@ hash = "fc2775479e9d7946db86d4eacec894b9e45fb93bbf62bb96401b6b45d29f11ae"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "a660173f854ce29f69ec9ae483e5f68d90a8897f1cb592f0b0ac43b9664e745f"
-metafile = true
-
-[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "31e3db7c895d5a4bcbaf68c196036b6b345264ab18ed74437a46819345ea4e01"
 metafile = true
@@ -217,11 +192,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "74302037e7ad7670973671237dbdea6dab5d2272500e073f9af641fe3878cb29"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "493e82e836ff37270e63c407f279be95bab12a69d0d7e2ab4f88f830ef18a67f"
 metafile = true
 
 [[files]]

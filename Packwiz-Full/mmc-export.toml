@@ -1,0 +1,19 @@
+name = "Lemonlight"
+author = "robotkoer"
+
+[[Resource]]
+name = "Mod Menu Helper"
+filename = "Mod Menu Helper.zip"
+action = "override"
+
+[[File]]
+name = "Copy all 3 folders and add Sodium!.url"
+action = "remove"
+
+[[File]]
+name = "Copy all 3 folders!.url"
+action = "remove"
+
+[[File]]
+name = "Install instructions.url"
+action = "remove"

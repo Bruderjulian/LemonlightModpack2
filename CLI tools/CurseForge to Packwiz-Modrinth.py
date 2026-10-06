@@ -102,7 +102,7 @@ def main():
     pack_version = "-".join(str(Path(cf_zip_path).with_suffix("")).split("-")[1:])
 
     mmc_zip_root = Path(cf_zip_path).parent
-    mmc_zip_path = mmc_zip_root / f"Fabulously Optimized {pack_version}.zip"
+    mmc_zip_path = mmc_zip_root / f"Lemonlight {pack_version}.zip"
 
     if not mmc_export_packwiz_export:
         # Update pack.toml first
@@ -169,7 +169,7 @@ def main():
 
         if not is_legacy:
             extract_file(
-                str(mmc_zip_root / f"Fabulously Optimized-{pack_version}.mrpack"),
+                str(mmc_zip_root / f"Lemonlight-{pack_version}.mrpack"),
                 "modrinth.index.json",
                 str(Path(git_path) / "Modrinth"),
                 "Modrinth manifest",
@@ -195,7 +195,7 @@ def main():
 
     if manual_jar_removal:
         mmc_zip_root = Path(cf_zip_path).parent
-        mmc_zip_path = mmc_zip_root / f"Fabulously Optimized {pack_version}.zip"
+        mmc_zip_path = mmc_zip_root / f"Lemonlight {pack_version}.zip"
         #remove_mod_from_archive("Sodium", mmc_zip_path)
         #remove_mod_from_archive("Iris", mmc_zip_path)
 

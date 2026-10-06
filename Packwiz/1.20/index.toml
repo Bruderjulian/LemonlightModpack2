@@ -111,18 +111,8 @@ hash = "e32d39231226295367d30ab01e9a542b1ae3644dc2b38e05f005c37cf10d0bce"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
-metafile = true
-
-[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "64b46649facff7bb1b20ed8bb93f7ece4f8e397e5a18f670aba5b741fa16973f"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "b6fdebc38bf3e988d5386bd781394545a06456e0f8fd238f2a380023de2165a7"
 metafile = true
 
 [[files]]
@@ -148,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/dynamicfps.pw.toml"
 hash = "9e367a3b4407bf1941a5b7cc7041545d1a243e30440262c9d7cd745e1b0b8535"
-metafile = true
-
-[[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "ca199c56727323ca124d5c4c4d6be14748d6602ca94e17daca9d7046f80170e4"
 metafile = true
 
 [[files]]
@@ -186,11 +171,6 @@ hash = "6c488254b38b239ed76c5315bd8d733e789c328aa89e25d7c68d3466a6a88d51"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "cabc105f32fa00d7988e1c8ebe1d9d2ee95ada93ffcfef59c33251ed2c602714"
-metafile = true
-
-[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "1b242182d81d92734769025a6e13805764213dfd1f676b1e4745e80c5077691f"
 metafile = true
@@ -221,11 +201,6 @@ hash = "c0b59e6a01005aa93d354c58e02548b047f685f03396b67529753a600426d28f"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "1f617d264ae48e96ae9269400a16dc93fa011a89c6e6ec17189ae5121a217df9"
-metafile = true
-
-[[files]]
 file = "mods/isxander-main-menu-credits.pw.toml"
 hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
@@ -243,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "13ca48713a50af57796f5252317d156fcfbde3325a021187410ff85db7e0f182"
-metafile = true
-
-[[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "a20d5a58944f864486b032842c5b440ab848e6c31c9cdfb2dfe6569d78e30462"
 metafile = true
 
 [[files]]

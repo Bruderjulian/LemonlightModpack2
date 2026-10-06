@@ -271,18 +271,8 @@ hash = "32a3ec6058134ed5101338a2a84c60b5e529f418533b62a9e19119697065805c"
 metafile = true
 
 [[files]]
-file = "mods/bettermounthud.pw.toml"
-hash = "19b890dc53d5c109366d7459cb223cfb4f39ff144a31a7fbd2f7cd6759fba151"
-metafile = true
-
-[[files]]
 file = "mods/borderlessmining.pw.toml"
 hash = "0f706fbdce3d232d6c498a1e5ccd920d1ca851f3ac6e7740215652b383de57aa"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "7de79654d71935c3b5be05f20202039bcd3dbb40cb2d03384429db2c1ff53393"
 metafile = true
 
 [[files]]
@@ -313,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "66a6d346fa65114d9c52effe486f2ab85d23eaa8d41af78ab2ec87e0156da1f4"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "c813b1d59264a2e248547f28775925ffd1c4484e16093069c486455e74a2b7d9"
 metafile = true
 
 [[files]]
@@ -356,11 +341,6 @@ hash = "ae82252b6b2f760552a9ada06e9dc9e73f185453a04714c5c55e3babcbf1c6e7"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "543d7b1eff31eb61bae8479800afbc7372db2702ec21513b061975a7bf31aed2"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "27b54d6d99a978917d4e97237d73c5cfba2094b0dc76d3b2e4ab0e5e2d1924a6"
 metafile = true
@@ -386,11 +366,6 @@ hash = "78a1ff5866bd47f4f26b12cadcbdb47d5a7e13fca6bdf8d5f6f326f38d62a8b4"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "bc14087f88144d28252dd2118198c3b811d4f6a53801db8f62589cd2f1339807"
-metafile = true
-
-[[files]]
 file = "mods/isxander-main-menu-credits.pw.toml"
 hash = "585d61069c2b8e6db74bdc73cd8cccc49c9c11b9352ba0b503a34c4179caa57d"
 metafile = true
@@ -408,11 +383,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ba861428ce2564caefe879c6dda5191849ede1debcb91aba2aa83bc50629cc2e"
-metafile = true
-
-[[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "cdf9bc056774c6be86ecf0ca2740a27e48cafdeb040760e80fde2083f218381f"
 metafile = true
 
 [[files]]

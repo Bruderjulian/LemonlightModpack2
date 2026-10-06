@@ -8,11 +8,11 @@ packwiz_path = git_path / "Packwiz" / minecraft_version
 
 macos = sys.platform == "darwin"
 if macos:
-    cf_path = Path.home() / "curseforge/Instances/Fabulously Optimized"
-    mmc_path = Path.home() / "Documents/PrismLauncher/instances/Fabulously Optimized/minecraft/"
+    cf_path = Path.home() / "curseforge/Instances/Lemonlight"
+    mmc_path = Path.home() / "Documents/PrismLauncher/instances/Lemonlight/minecraft/"
 else:
-    cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
-    mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/minecraft/"
+    cf_path = Path.home() / "curseforge/minecraft/Instances/Lemonlight/"
+    mmc_path = Path.home() / "Documents/MultiMC/instances/Lemonlight/minecraft/"
 
 
 def remove_dir(path: Path, description: str) -> None:

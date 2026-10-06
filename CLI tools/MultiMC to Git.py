@@ -6,9 +6,9 @@ from pathlib import Path
 
 macos = sys.platform == "darwin"
 if macos:
-    mmc_path = Path.home() / "Documents/PrismLauncher/instances/Fabulously Optimized/"
+    mmc_path = Path.home() / "Documents/PrismLauncher/instances/Lemonlight/"
 else:
-    mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/"
+    mmc_path = Path.home() / "Documents/MultiMC/instances/Lemonlight/"
 
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 output_path = Path.home() / "Desktop/"
@@ -49,21 +49,21 @@ with open(mmc_path / "instance.cfg", "r", encoding="utf-8") as file:
                 version = match.group()
             break
 
-with open(git_path / "MultiMC/Fabulously Optimized x.y.z/instance.cfg", "r+") as file:
+with open(git_path / "MultiMC/Lemonlight x.y.z/instance.cfg", "r+") as file:
     data = pattern.sub(version, file.read())
     file.seek(0)
     file.truncate()
     file.write(data)
 
 copy_to_archive(
-    git_path / "MultiMC/Fabulously Optimized x.y.z/instance.cfg",
-    f"Fabulously Optimized {version}/instance.cfg",
-    output_path / f"Fabulously Optimized {version}.zip",
+    git_path / "MultiMC/Lemonlight x.y.z/instance.cfg",
+    f"Lemonlight {version}/instance.cfg",
+    output_path / f"Lemonlight {version}.zip",
 )
 
 copy_file(
     mmc_path / "mmc-pack.json",
-    git_path / "MultiMC/Fabulously Optimized x.y.z/mmc-pack.json",
+    git_path / "MultiMC/Lemonlight x.y.z/mmc-pack.json",
     "MultiMC mmc-pack.json",
     "Git",
 )
@@ -71,14 +71,14 @@ copy_file(
 if macos:
     copy_file(
         mmc_path / "modrinth_fabulously-optimized.webp",
-        git_path / "MultiMC/Fabulously Optimized x.y.z/pack.webp",
+        git_path / "MultiMC/Lemonlight x.y.z/pack.webp",
         "Prism pack.webp",
         "Git",
     )
 else:
     copy_file(
         mmc_path / "pack.png",
-        git_path / "MultiMC/Fabulously Optimized x.y.z/pack.png",
+        git_path / "MultiMC/Lemonlight x.y.z/pack.png",
         "MultiMC pack.png",
         "Git",
     )
