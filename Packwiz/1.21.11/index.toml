@@ -292,6 +292,10 @@ hash = "8d54883808ff12aa5ffc309cb9b8c938fd9bb4858e7cb73b6237f39dc969d3bb"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "ef8daa6647a07e86340977547a8a18b919144bec8d6601938bb102ca3479e595"
+metafile = true
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b4bba42a338f7d73be08bd82a31b7c22a74345fc26a13b797cfd3b7aea937566"
 metafile = true
@@ -318,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "2f4334c909013c446b76c2de88ed149b890afc2daa8f9f32226a0579064bf790"
+hash = "9c53a0989a27a5664588aca98a90c39e0218fc69ca86463fc634f19b1c1b833b"
 metafile = true
 
 [[files]]
@@ -328,17 +332,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "80a9c54fdd8925cbb3f147f7ed1a94549afe11eae5786c3cbf1c450e903fe1bc"
+hash = "9f215a8ac1b8a2eb1af0ac82c5f1a4059276b52a78047c60bc2f8273a52a54c3"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "392fffb13016eefa681d1f7910f90cb949f7578cdd38e01c28ca9ee3daf67af9"
+hash = "9aa8c33afc7ea133f0daf90fed108d44fed323178cdd30a4bc42cdf90dd09552"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "12d47109331dfcb1528cc8bbc922c3eef2d3acbbd397dee301a61ac48f7180d5"
+hash = "31f79b403bc21933131d2a1b4da829760f0c8cce687d66503cc2cb92a7072064"
 metafile = true
 
 [[files]]
@@ -348,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -378,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "35f1ca6e348e129b7fd2a304a20388373b4ca889b79d5c188171fb7486758c89"
+hash = "fa547671172a12f0f7e4d2385b249fc2071e21d1fcd1c661bb78541e35afbf4b"
 metafile = true
 
 [[files]]
@@ -403,17 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "496f7d1bad22abbde478ccf9fde458732afbc93ab9e5765d85f2501e23ce8db5"
+hash = "db026db2e6fb5b7f395646f39ccd40ed9b2937bf43e531335e103fcdae3b896c"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "935005b2da3568303c03565ff79f856bc2bd771006a3e052efe026ad0c9be351"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "b5c0182a299378a60b002e50c84869c563a020ecb7d03a66b5bd2523be987537"
+hash = "89a5e6578337ec9aea7469bfa236dc633dfe58d06dbff4090bb33b1d4a7a9c56"
 metafile = true
 
 [[files]]
@@ -438,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "05e841d10d59164d20cb3f7cad24707eb079f46afafbc59bff11d668ea700cc6"
+hash = "1e45ecc2ec5ee01d39b7c8bc59e5b9d9640acd6216fe5e5c24d68be4daf1cecf"
 metafile = true
 
 [[files]]
@@ -448,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e3fcf1e4e6ae1ac2354d39a2e94aedbe1ecdfaf9594848a32e1eaac1cea58ef1"
+hash = "a55498ad88a571cf8325a37b58949529387fde575c6c1d9dfde144fccc560ada"
 metafile = true
 
 [[files]]
@@ -458,17 +457,17 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "dcadc8cf9f800e021822a45ef2d4d3f4677db7bb80a7da2754ea6b63c9ab3796"
+hash = "85db4fcc505a2c0b98e50ed2a010c429debfe9357e63ba861699e6a4055e8915"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "7c332150908820c5407bb0570ac3f655c43d7a57c0ddefbb5af7a2ca95f1f5e5"
+hash = "1059fde917fc58c357673b29b5ddc9cdd43fe0ab4bfdd959a5c9b42dab668358"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "156731218e17a750c4e7caee86a22edf7d6e22196218bbe6fe83601679c51d72"
+hash = "703f396a9f3ced77a28c2ebab08c1411beb2c32df2943c8ec5277d1b43dd2bad"
 metafile = true
 
 [[files]]
@@ -481,6 +480,10 @@ file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "941777ea339a9e6c10af302decfff1e5c590fa4c2f06ffb813fbaa22c674d970"
 metafile = true
 
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "854dacb27acda6e35475b2818419038737de8e12c7de39de1676a641d6a9c487"

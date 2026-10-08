@@ -1,0 +1,13 @@
+name = "Unique Dark Refined"
+filename = "UD Refined - Lite - 1.20.2-26.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NXbHzs3/versions/YpbG0BiR/UD%20Refined%20-%20Lite%20-%201.20.2-26.x.zip"
+hash-format = "sha512"
+hash = "3989680e19d33204b8702ecce39302178a2431ac1d3c1d22bd1651d39902303e125e76d674ec0274667fd005b419a8f3878f5a39cdca5216be699cf8ad154c83"
+
+[update]
+[update.modrinth]
+mod-id = "9NXbHzs3"
+version = "YpbG0BiR"

@@ -216,6 +216,10 @@ hash = "e583319a98a1f6d7334b293a4e1cb59916be6defbfc8a7badc22e3dc20370327"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "d72a40619417b6c244e08b482be124726212e2eb10b601280aa302ef8bf7eb5e"
+metafile = true
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "8e82609afafd924b86b4791bf4f908175e19de75e1a5818cf978a581162dba91"
 metafile = true
@@ -247,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "6f3aa4878361f9eb4343647573e4bbe20716ca7244b6cd93f996966ae02f5773"
+hash = "2a66ff43fef6a84f1bd599c21330238dbd7f8fd4992f108005cd0f3944b7186d"
 metafile = true
 
 [[files]]
@@ -262,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
@@ -331,11 +335,6 @@ hash = "634d23e23d005e8574901e54ef254cb010db5a61f0d7ef5243861d75747551fa"
 metafile = true
 
 [[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "02e48006b97275ced764d2b40c5563e6b995da4221f2b06e12d643b82f37bfae"
-metafile = true
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "3d5215c890410372168f021d32b50140526057aea646ca3a6f317e424017e550"
 metafile = true
@@ -352,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
 
 [[files]]
@@ -382,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d56bb105cb332a73e9134318f0e12d600c8f939d0b9c909cc901d61ac65b4fba"
+hash = "bcd203ccec8e51564260ddc73627c8b2e227b0e1bf260bad9f314081759f65ba"
 metafile = true
 
 [[files]]
@@ -395,6 +394,10 @@ file = "mods/yet_another_config_lib_v3.pw.toml"
 hash = "2ce849e08a15fb0b7e1efbba0c593b17e813a65437810786ef7351225c11727f"
 metafile = true
 
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "2b2454983ba3998ef01658b10263724b3283acb47092c4d675e2ec6fd242c17b"
@@ -642,4 +645,44 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
  hash = "d1a58d3258f181b8efb74a49a1ff19e3db774cd58a9bbb8127a3554a67250fa8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-mace.pw.toml"
+hash = "574a5d2e7857e5ac4d072f0a75a3464a6078d50f8e58958c02633f8daedb6557"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "1e34347e78a18e3d1b25969a841d78ea61ab4380cc1bb87899b0ad5ab0b7e788"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-fire-pack.pw.toml"
+hash = "cf30836dcbf34e184475012af22e5c9b2afa3b80aa3b4faf2f96c2f6e8fac012"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "0232bca4bc7efb1eff13c0c44799ac10292e084dcc776698dfc1698382409fde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/recolourful-containers-gui-hud-dark.pw.toml"
+hash = "c3570d82441d4a9cd56555a4fe3cf311ad0f28782a1c87acc7ea5dce9fe4210a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "bdd44a1e95a9f71075abe129a4ea5395d08e7ca66fe2269621916ddbfd766bd2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark-refined.pw.toml"
+hash = "5289ddaad5b056d1316aba1825ce9e7ff0f94671777b1ace872e7ddc0fae1818"
+metafile = true
+
+[[files]]
+file = "mods/put-a-plug-in-it.pw.toml"
+hash = "f5692b64b55d253bab1047317f49e4379d78ac381360c6e849ab9cfe8b4e6e17"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Low Mace"
+filename = ".§aLow Mace v26.3§8.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pEFVyTpN/versions/LRY5GKSl/.%C2%A7aLow%20Mace%20v26.3%C2%A78.zip"
+hash-format = "sha512"
+hash = "fe92493f7978530139ed06adecc6db40028dea47156952908ddd07158bb664b348df3af5d3c1b5471aca493a90925484b7406c8f804f5f4eb25632ac763477bb"
+
+[update]
+[update.modrinth]
+mod-id = "pEFVyTpN"
+version = "LRY5GKSl"

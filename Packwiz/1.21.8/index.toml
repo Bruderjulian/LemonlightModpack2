@@ -255,6 +255,10 @@ hash = "207dd1635fae6a281508db6bbf45d261a641a42577ab07a5b2310e8de3535f4f"
 metafile = true
 
 [[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "44cf0fa4e6c91c0e0e3ef1dc4011322e8e5250ba5ad28913848b603dac89ae2e"
+metafile = true
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "8a4bb5d3fe90e0e954b98654a04d6d3617d655498be913843f990d397e9c67b5"
 metafile = true
@@ -266,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "db2f7c5954872b38e5f877e31eb5af0eaf35638e0a7aa11a12f3fdd6b7f1e2b2"
+hash = "eda102abc97d7a1e280af61971f9c961c24befcb61fdbd61be2e7e7870c67868"
 metafile = true
 
 [[files]]
@@ -286,17 +290,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "f7de935085ead2baa66946fefc515952c0047c78383aafe5573016bbb4abc22d"
+hash = "a9d9db09589f9c0053c67961b58fd576ee29d7de6601c70bee436bb00d94d597"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "2d1954bb714f530aa9e5173270dac27205eab047762606ca71984483004c47e0"
+hash = "530ff83ad9c7b12b447f1cb158940454f9bdd0e6b3d2715a9b651ef9f1d6a22e"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a742c884f8b0366be55ff7c86e25e7b0a45fc1c64f6b81ab25d678b7b069fd08"
+hash = "a2435f605a1266a2f21a1a803f8dcd177a9e5071951a69df7fd737e09e6046b8"
 metafile = true
 
 [[files]]
@@ -306,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -326,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "edb17cfd47c29d86d9462e3de343dcc3f9eb3ac3178cf26b47b14f16e4a9bc52"
+hash = "a1210dcbd69ddebe0f62a4a9aa07db56530ccab7eaff06d47db8959c2b894e4e"
 metafile = true
 
 [[files]]
@@ -362,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "887f7ef4e875ec6be293d558ca57221bf291828796b6ca72488eff9c7ed0d0e6"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "b5c0182a299378a60b002e50c84869c563a020ecb7d03a66b5bd2523be987537"
 metafile = true
 
 [[files]]
@@ -406,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "0afbcbeaf60af9fe2e84a5660951ec6efd9820c7fd3cdd2e013fe5d3de262f5d"
+hash = "621a9cf594105b0de119d45b664b1d22e9fe52322f98b93814af55806ca81f02"
 metafile = true
 
 [[files]]
@@ -428,7 +427,6 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
-
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ae42a8d496c5f0879773a9be070cb17f395159b915c696df17002767de966918"
